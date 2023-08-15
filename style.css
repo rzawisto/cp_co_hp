@@ -4,3 +4,9 @@ html {
   display: border-box;
   font-size: 16px;
 }
+
+.banner {
+  height: 12em;
+  background-color: #ba62ea;
+  color: #fff;
+}
